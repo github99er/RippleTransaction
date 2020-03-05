@@ -1,3 +1,3 @@
 # RippleTransaction
-![](Ripplez.png)
+!img
 XRP Transaction Failure
