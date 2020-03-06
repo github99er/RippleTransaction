@@ -11,6 +11,6 @@ Below is the simple, detailed, and raw JSON explanation of one of the transactio
 ### Example Email Hosted On Webpage:
 
 This is an example of how a Ripple team member could successfully amend the issue. 
+--
 
-#
 ![](RIPPLEPAGE.png)
