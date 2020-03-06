@@ -9,7 +9,7 @@ Below is the simple, detailed, and raw JSON explanation of one of the transactio
 | ![](paySimp.png) | ![](payDetailed.png)  |![](payRaw.png)  |      
 
 
-### Example Email Text
+### Example Email Text:
 
 ```
 HELLO X
@@ -21,5 +21,5 @@ HELLO X
 asdasdasdasd
 ```
 
-### Email hosted on personal webpage
+### Email Hosted On Webpage:
 ![](RIPPLEPAGE.png)
