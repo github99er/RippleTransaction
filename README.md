@@ -8,28 +8,9 @@ Below is the simple, detailed, and raw JSON explanation of one of the transactio
 | ------ | ------ | ------ |
 | ![](paySimp.png) | ![](payDetailed.png)  |![](payRaw.png)  |      
 
+### Example Email Hosted On Webpage:
 
-### Example Email Text:
+This is an example of how a Ripple team member could successfully amend the issue. 
 
-```
-Dear User,
-Your XRP transaction made on March 02, 2020 at 11:21 PM UTC has not been processed due to lack of a destination tag.
-
-Destination tags are special to certain ledgers such as XRP, and used by exchanges or hosted wallets to indicate 
-which customer to credit. Destination tags are an optional feature, however, the address you sent your XRP to 
-requires destination tags.
-
-Because the transaction did not fully process your funds have not been received by the target address. In order to 
-successfully send your XRP, please enter the destination tag provided by the receiving party into the 
-transaction's "tag" field. (see below).
-
-
-Curious about your transaction? Learn More
-
-Want to know more about destination tags? Learn More
-
-On behalf of the Ripple team, we apologize for the inconvenience and appreciate your patience!
-```
-
-### Email Hosted On Webpage:
+##
 ![](RIPPLEPAGE.png)
